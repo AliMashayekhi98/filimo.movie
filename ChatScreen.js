@@ -19,11 +19,7 @@ const ChatScreen = ({ navigation }) => {
           
           color="red"
           title=" Watch online"
-          onPress={() => Alert.alert(  "آنلاین ببین!" ,"خامنه ای در حال کشیدن تریاک. زنده" ,[
-            {text:"الان میبینم" },
-            {text:"نه نمیخوام ببینم دیوثو" }
-          ]
-          )}>
+         >
         </Button>
         <Button
           
